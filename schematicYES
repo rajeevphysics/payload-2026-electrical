@@ -1,0 +1,4 @@
+git checkout <schematic-1>
+git add <schematicPayload>
+git commit -m "Add KiCad project files"
+git push origin <schematic-1>
